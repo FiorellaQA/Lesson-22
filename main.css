@@ -5,16 +5,30 @@ body, html {
 h1, p{
 	text-align: center;
 }
-div{
-	height: 50px;
+.border{
+	border:3px solid black;
 }
 .amarillo{
 	background-color: yellow;
+	height: 50px;
 }
 .rosa{
 	background-color: #eb234e;
+	height: 50px;
 }
 .amarillo2{
 	background-color: yellow;
 	text-transform: uppercase;
+	height: 50px;
+}
+/*ejercicio2*/
+.ejercicio2{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.center2{
+	height: 50px;
+	width: 150px;
+	margin: 5px;
 }
