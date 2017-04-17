@@ -1,0 +1,20 @@
+body, html {
+	margin: 0;
+	padding: 0;
+}
+h1, p{
+	text-align: center;
+}
+div{
+	height: 50px;
+}
+.amarillo{
+	background-color: yellow;
+}
+.rosa{
+	background-color: #eb234e;
+}
+.amarillo2{
+	background-color: yellow;
+	text-transform: uppercase;
+}
