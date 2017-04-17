@@ -38,3 +38,7 @@ h1, p{
 	display: inline;
 	text-align: center;
 }
+/*Ejercicio 4*/
+div.block{
+	display: inline-block;
+}
