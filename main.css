@@ -5,21 +5,22 @@ body, html {
 h1, p{
 	text-align: center;
 }
-.border{
+/*.border{
 	border:3px solid black;
+}*/
+.dimensiones{
+	height: 50px;
+	width: 150px;
 }
 .amarillo{
 	background-color: yellow;
-	height: 50px;
 }
 .rosa{
 	background-color: #eb234e;
-	height: 50px;
 }
 .amarillo2{
 	background-color: yellow;
 	text-transform: uppercase;
-	height: 50px;
 }
 /*ejercicio2*/
 .ejercicio2{
@@ -31,4 +32,9 @@ h1, p{
 	height: 50px;
 	width: 150px;
 	margin: 5px;
+}
+/*ejercicio3*/
+.ejercicio3 > div {
+	display: inline;
+	text-align: center;
 }
